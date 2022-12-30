@@ -1,5 +1,7 @@
 /* Global Styles */
 
+@import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+
 * {
   font-family: 'Roboto', Arial, sans-serif;
   color: #616161;
